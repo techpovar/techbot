@@ -3,4 +3,4 @@
 Дата создания бота 22.09.2021
 
 # Пример
-![Пример](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Пример](https://raw.githubusercontent.com/techpovar/techbot/Python/example.png)
